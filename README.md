@@ -1,26 +1,31 @@
-# Practice - 3 Column preview card component
+# 3 column preview card
 
-## Table of contents
+A 3 column preview card component for a Frontend Mentor Challenge
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+## Tech Stack
 
-## Overview
+**Client:** HTML and CSS
 
-### Screenshot
+## Run Locally
 
-![screenshot1](./resources/screenshot/screenshot01.png)
-![screenshot2](./resources//screenshot/screenshot02.png)
+Clone the project
 
-## My process
+```bash
+  git clone https://github.com/hafezfhmi/3-column-preview-card.git
+```
 
-### Built with
+Go to the project directory
 
-- HTML & CSS
+```bash
+  cd 3-column-preview-card
+```
 
-### Useful resources
+Open index.html in your browser
 
-- Design Source: [Click here](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+## Screenshots
+
+![App Screenshot](./resources/screenshot/screenshot01.png)
+
+## Demo
+
+https://3-column-preview-card.hafezfhmi.com
